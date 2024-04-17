@@ -57,12 +57,6 @@ Hey, Ritesh Kumar here...
  
 <!---------------- Social Media Links Section------------------------->
 
-
-<div align="center">
-  <a href="https://ritesh19331.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
 <br>
 <h2 align="center"><i>GitHub's Analytics <img align="center" height="40" width="55" src="https://media1.giphy.com/media/3oiaLa13GUehTbgDfs/giphy.gif" /></i></h2>
    <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritesh19331&theme=onedark" alt="ritesh19331" />
